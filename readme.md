@@ -1,4 +1,4 @@
-This repo explores ways of generating 2D art using canvas-sketch-cli
+This repo explores ways of generating 2D art using canvas-sketch-cli based on Frontend Masters course "Creative Coding with Canvas & WebGL"
 
 canvas-sketch-cli is a great tool for creating 2d artwork on canvas that is then easy to export or print
 
