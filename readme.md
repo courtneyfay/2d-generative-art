@@ -5,3 +5,4 @@ canvas-sketch-cli is a great tool for creating 2d artwork on canvas that is then
 - sketch.js > some canvas-sketch npm package basics ![simple sketch](images/sketchjs.png)
 - grid.js > makes a simple grid and margins using lerp function from canvas-sketch-util/math library ![simple grid](images/gridjs.png)
 - random.js > applies a random utility to the simple grid ![simple random](images/randomjs.png)
+- organic-randomness.js > applies a two forms of randomness to the grid, both in terms of radius (gaussian) and appearance(regular) ![simple random](images/organic-randomnessjs.png)
